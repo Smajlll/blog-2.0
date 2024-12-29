@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <h1>What are you looking for here?</h1>
+  <p>The page your browser requested was not found :(<br>The site returned the error: 404 Not found</p>
+  <p>
+    <a href="{{ .Site.Home.RelPermalink }}">
+      Return to the home page
+    </a>
+  </p>
+{{ end }}

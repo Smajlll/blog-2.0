@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on smoliicek - blog</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on smoliicek - blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2024, smoliicek.cz</copyright>
+    <lastBuildDate>Sun, 29 Dec 2024 13:54:12 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Hugo!</title>
+      <link>http://localhost:1313/post/hello-world/</link>
+      <pubDate>Sun, 29 Dec 2024 13:54:12 +0100</pubDate>
+      <guid>http://localhost:1313/post/hello-world/</guid>
+      <description>&lt;h2 id=&#34;hello&#34;&gt;Hello!&lt;/h2&gt;&#xA;&lt;p&gt;this is an example of an article :D&lt;/p&gt;&#xA;&lt;p&gt;some code:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;char&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Smolík Vít&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;list:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item 1&lt;/li&gt;&#xA;&lt;li&gt;item 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Here is a link to the thing helping me host this site, &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo!&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is an image:&#xA;&lt;img src=&#34;http://localhost:1313/img/hugo-logo.png&#34; alt=&#34;Hugo logo&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
