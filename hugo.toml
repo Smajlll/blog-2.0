@@ -16,7 +16,7 @@ theme = "paper"
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'vit.smolik2@gmail.com'                 # gravatar email or image url
+  avatar = 'me@smoliicek.cz'                 # gravatar email or image url
   name = 'Vít Smolík'
   bio = 'Linux user, C++ developer, math guy, 🇨🇿'
 
